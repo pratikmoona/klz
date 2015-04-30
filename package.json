@@ -4,6 +4,8 @@
 	"dependencies": {
 		"express": "^4.10.6",
 		"mysql": "^2.5.4",
-		"ejs": "^1.0.0"
+		"ejs": "^1.0.0",
+		"body-parser": "^1.7.0",
+		"express-session": "~1.7.6"
 	}
 }
